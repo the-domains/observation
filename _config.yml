@@ -2,6 +2,7 @@ name: Observation.org Blog
 favicon: null
 layout_spectrum: 0.14657418266870081
 typography_spectrum: 0.5949762756936252
+title: Observation.org Blog
 cta:
   domain: null
   bucket: null
