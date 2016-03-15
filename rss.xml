@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Observation.org Blog]]></title>
+        <description><![CDATA[Observation.org Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 14:40:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Observation.org is the website for all nature observations.</p>]]></description>
+            <link>undefined5ea6a019-d8db-4266-98d1-fc2b1357dd13/index.html</link>
+            <guid isPermaLink="false">5ea6a019-d8db-4266-98d1-fc2b1357dd13</guid>
+            <pubDate>Tue, 15 Mar 2016 14:40:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
